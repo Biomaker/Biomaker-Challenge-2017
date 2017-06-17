@@ -11,7 +11,7 @@ Github is the primary means of organising and documenting the projects, you will
 - Remember that all text formatting is done using [Markdown](https://guides.github.com/features/mastering-markdown/)
 
 Once you're set there are two ways you can interact with other Challenge participants and the coordinating team:
-- [![Join the chat at https://gitter.im/Biomaker-Challenge/Lobby](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/Biomaker-Challenge/Lobby) - this is a chat room for asking quick questions and you will login using the same github account.
+- [![Join the chat at https://gitter.im/Biomaker-Challenge-Community/Lobby](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/Biomaker-Challenge-Community/Lobby) - this is a chat room for asking quick questions and you will login using the same github account.
 - Make comments on or raise an issue in this [main repository](https://github.com/BioMakers/Biomaker-Challenge-2017/issues) or any of the project repositories once created.
 
 You can also email biomaker@hermes.cam.ac.uk
