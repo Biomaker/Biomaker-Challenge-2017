@@ -19,7 +19,7 @@ You can also email biomaker@hermes.cam.ac.uk
 ## Suggesting an idea
 
 **Add information to an existing description**
-Some descriptions of issues were very short - please add as much detail and additional ways to participater as possible! You can add a comment to the issue and once you're added to the Biomaker organisation, you can edit the original.
+Some descriptions of issues were very short - please add as much detail and additional skills required or ways to participate as possible! You can add a comment to the issue and once you're added to the Biomaker organisation, you can edit the original.
 
 **Add a new idea!**
 [Add an issue](https://guides.github.com/features/issues/) to this [GitHub repository](https://github.com/BioMakers/Biomaker-Challenge-2017/issues). Once a Biomaker Coordinator sees this and adds you to the organisation, you'll be able to label and assign people to the project. 
