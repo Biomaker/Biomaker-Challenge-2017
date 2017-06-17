@@ -18,16 +18,24 @@ You can also email biomaker@hermes.cam.ac.uk
 
 ## Suggesting an idea
 
-1. Add an issue to this repository ([instructions](https://guides.github.com/features/issues/)). Once a Biomaker Coordinator sees this and adds you to the organisation, you'll be able to label and assign people to the project. 
-2. To add more information to your project description, add a comment to the issue or once you're added to the organisation, you can edit the original.
+**Add information to an existing description**
+Some descriptions of issues were very short - please add as much detail and additional ways to participater as possible! You can add a comment to the issue and once you're added to the Biomaker organisation, you can edit the original.
+
+**Add a new idea!**
+[Add an issue](https://guides.github.com/features/issues/) to this [GitHub repository](https://github.com/BioMakers/Biomaker-Challenge-2017/issues). Once a Biomaker Coordinator sees this and adds you to the organisation, you'll be able to label and assign people to the project. 
+
+**Offering help on an existing project idea**
+Discuss with the contact person for an idea either via the relevant issue or by email (contact details or links to find them should be in the project description). 
 
 You will receive notifications about comments on issues you've commented on. Make sure your [notification settings](https://help.github.com/articles/managing-notification-delivery-methods/) are set to your preferences.
 
-## Offering help and joining a team
+## Offering to collaborate
 
-1. Discuss with the contact person for an idea either via the relevant issue or by email (contact details or links to find them should be in the project description). 
-2. Submit a profile as an so people can find you to ask for help. Title structure: '[Your Name] Skills: [list of main skills]'
+If you would like to offer your time and skills as a collaborator, you can either get in touch with specific projects as above or submit a profile as an issue so people can find you to ask for help. 
 
+**Issue title structure** '[Your Name] Skills: [list of main skills]'
+
+**Suggested Content**
 Name:
 Organisation and Department (if applicable)
 What would you like to learn?
