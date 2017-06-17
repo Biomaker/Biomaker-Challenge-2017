@@ -7,7 +7,7 @@ Biomaker Challenge is a four-month programme challenging interdisciplinary teams
 
 Github is the primary means of organising and documenting the projects, you will need to:
 - [Sign up for an account](https://github.com/join?source=header-home) - free and quick
-- Familiarise yourself with with [issues](https://guides.github.com/features/issues/)
+- Familiarise yourself with how to create, edit and comment on [issues](https://guides.github.com/features/issues/)
 - Remember that all text formatting is done using [Markdown](https://guides.github.com/features/mastering-markdown/)
 
 Once you're set there are two ways you can interact with other Challenge participants and the coordinating team:
