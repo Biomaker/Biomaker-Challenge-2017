@@ -18,13 +18,19 @@ You can also email biomaker@hermes.cam.ac.uk
 
 ## Suggesting an idea
 
-1. Add an issue to this repository ([instructions](https://guides.github.com/features/issues/)) and tag it with the label 'idea' and any other relevant labels. 
-2. Assign yourself to the issue and potential collaborators can add themselves as well so you get alerts about comments.
-3. To edit the project description and add more details, either click the pencil to edit the initial issue or add a comment.
+1. Add an issue to this repository ([instructions](https://guides.github.com/features/issues/)). Once a Biomaker Coordinator sees this and adds you to the organisation, you'll be able to label and assign people to the project. 
+2. To add more information to your project description, add a comment to the issue or once you're added to the organisation, you can edit the original.
 
-## Joining a team
+You will receive notifications about comments on issues you've commented on. Make sure your [notification settings](https://help.github.com/articles/managing-notification-delivery-methods/) are set to your preferences.
+
+## Offering help and joining a team
 
 1. Discuss with the contact person for an idea either via the relevant issue or by email (contact details or links to find them should be in the project description). 
-2. Assign yourself to issues containing ideas you're interested in so you get updates on comments.
+2. Submit a profile as an so people can find you to ask for help. Title structure: '[Your Name] Skills: [list of main skills]'
+
+Name:
+Organisation and Department (if applicable)
+What would you like to learn?
+What can you teach people?
 
 
