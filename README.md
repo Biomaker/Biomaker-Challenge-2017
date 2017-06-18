@@ -3,6 +3,11 @@
 
 Biomaker Challenge is a four-month programme challenging interdisciplinary teams to build low-cost sensors and instruments for biology. From colorimeters to microfluidics and beyond, we’re looking for frugal, open source and DIY approaches to biological experiments. **For more information on eligibility and making an application see the [SynBio SRI website](http://www.synbio.cam.ac.uk/biomakerchallenge).**
 
+[![Link to Ideas](https://github.com/BioMakers/Biomaker-Challenge-2017/blob/master/assets/button_challenge-ideas.png)](https://github.com/BioMakers/Biomaker-Challenge-2017/issues?q=is%3Aopen+is%3Aissue+label%3Aidea) (a collection of project ideas looking for collaborators)                
+
+[![Link to Collaborators](https://github.com/BioMakers/Biomaker-Challenge-2017/blob/master/assets/button_find-collaborators.png)](https://github.com/BioMakers/Biomaker-Challenge-2017/issues?q=is%3Aopen+is%3Aissue+label%3Acollaborator) (a collection of people who are interested to help with projects)
+
+
 ## Using github and keeping in touch
 
 Github is the primary means of organising and documenting the projects, you will need to:
