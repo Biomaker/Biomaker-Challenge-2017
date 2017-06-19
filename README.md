@@ -41,9 +41,30 @@ If you would like to offer your time and skills as a collaborator, you can eithe
 **Issue title structure** '[Your Name] Skills: [list of main skills]'
 
 **Suggested Content**
-Name:
-Organisation and Department (if applicable)
-What would you like to learn?
-What can you teach people?
+- Name:
+- Organisation and Department (if applicable)
+- What would you like to learn?
+- What can you teach people?
+
+## Sponsorship
+
+We are pleased to be able to offer the following in-kind reagents and hardware to teams above and beyond the Biomaker Toolkit, thanks to generous sponosrship from ARM Ltd and New England Biolabs. Where numbers are limited, the Biomaker Challenge Coordinators will allocate the items on application merit.
+
+<img src="https://www.neb.uk.com/neb/media/images/common/neb_logo.svg" width="150">
+
+Choose up to three different kits:
+- NEB® Golden Gate Assembly Mix (NEB #E1600S)
+- BioBrick® Assembly Kit (NEB #E0546S)
+- NEBuilder® HiFi DNA Assembly Master Mix (NEB #E2621S)
+- NEBuilder® HiFi DNA Assembly Cloning Kit (NEB #E5520S)
+- Q5® High-Fidelity 2X Master Mix (NEB #M0492S)
+- Quick-Load® Purple 2-Log DNA Ladder (NEB #N0550S)
+- NEB 5-alpha Competent E. coli (NEB #C2987I)
+
+<img src="https://www.cambridgenetwork.co.uk/public/photos/arm-logo2.jpg" width="150">
+5 [NXP FRDM KL25Z](https://developer.mbed.org/platforms/KL25Z/) boards
+
+
+
 
 
