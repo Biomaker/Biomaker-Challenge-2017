@@ -62,7 +62,8 @@ Choose up to three different kits:
 - NEB 5-alpha Competent E. coli (NEB #C2987I)
 
 <img src="https://www.cambridgenetwork.co.uk/public/photos/arm-logo2.jpg" width="150">
-5 [NXP FRDM KL25Z](https://developer.mbed.org/platforms/KL25Z/) boards
+
+5 [NXP FRDM KL25Z mBed](https://developer.mbed.org/platforms/KL25Z/) boards
 
 
 
