@@ -19,7 +19,13 @@ Once you're set there are two ways you can interact with other Challenge partici
 - [![Join the chat at https://gitter.im/Biomaker-Challenge-Community/Lobby](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/Biomaker-Challenge-Community/Lobby) - this is a chat room for asking quick questions and you will login using the same github account.
 - Make comments on or raise an issue in this [main repository](https://github.com/BioMakers/Biomaker-Challenge-2017/issues) or any of the project repositories once created.
 
-You can also email biomaker@hermes.cam.ac.uk
+You can also email biomaker@hermes.cam.ac.uk and sign up to the announcement mailing list below
+![http://www.synbio.cam.ac.uk/images/button_joinbiomakerchallengeannouncementlist.png](http://cam.us10.list-manage1.com/subscribe?u=0577ce1c25cff983caf75199a&id=903fad2d2a)
+
+#### Updates so far
+- 23 June: Biomaker Challenge - [Deadline Today and Help Wanted](http://mailchi.mp/3781c08031aa/biomaker-challenge-introduction-slides-and-links-1202693)
+- 17 June: [Biomaker Challenge - Ideas and Collaborators](http://us10.campaign-archive1.com/?u=0577ce1c25cff983caf75199a&id=98b740aa97)
+- 15 June: [Biomaker Challenge Introduction - Slides and Links](http://us10.campaign-archive1.com/?u=0577ce1c25cff983caf75199a&id=31f479e311)
 
 ## Suggesting an idea
 
