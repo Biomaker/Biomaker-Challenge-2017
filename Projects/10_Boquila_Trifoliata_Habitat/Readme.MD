@@ -1,6 +1,6 @@
 ## Synopsis
 
-At the top of the file there should be a short introduction and/ or overview that explains what the project is. This can be the 150 word description from your proposal.
+Boquila Trifoliata, a cimber at home in the temperate rainforests of southern chile, exhibits an extraordinary version of leaf mimicry. When growing in close proximity to other plants in its natural habitat it is able to adopt the other plants’ leaf coloring, shape, and size without physical contact (Gianoli et al., 2014). Until now B. Trifoliata is the only plant showing this behavior and the underlying mechanism remains elusive. Additionally, the leaf mimicry has only been observed in the wild and it is unclear whether B. trifoliata shows the same behavior in a laboratory environment. We propose to build a Biosensor that is able to monitor B. trifoliata growth under laboratory conditions to investigate this mechanism. To this end we will design a chamber with precise humidity and temperature and illumination controls in which B. trifoliata can grow isolated or in close proximity to other plants that are endemic to its natural habitat, as for example Rhaphithamnus spinosus. A better understanding of this mysterious mechanism will might yield significant advances in our understanding of how plants communicate.
 
 ## Software
 
